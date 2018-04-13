@@ -1,4 +1,4 @@
-FROM blakelapierre/etnpool-base
+FROM blakelapierre/ipbc-base
 
 EXPOSE 8070
 VOLUME daemon-data
